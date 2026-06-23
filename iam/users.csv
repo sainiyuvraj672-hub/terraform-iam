@@ -1,0 +1,11 @@
+user_name,role_name,email,group
+yuvraj,devops,yuv@example.com,devops
+rahul,developer,rahul@example.com,developer
+mini,admin,mini@example.com,admin
+john,intern,john@example.com,intern
+aman,devops,aman@example.com,devops
+rohit,developer,rohit@example.com,developer
+priya,developer,priya@example.com,developer
+ravi,cloud,ravi@example.com,cloud
+arjun,admin,arjun@example.com,admin
+neha,intern,neha@example.com,intern
